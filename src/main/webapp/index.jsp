@@ -842,7 +842,7 @@ footer li {
         <div class="hero-side">
 
             <div class="promo promo-one">
-                <h3>Tech that moves with me.</h3>
+                <h3>Tech that moves with you.</h3>
                 <p>Upgrade your everyday setup.</p>
                 <div class="circle"></div>
             </div>
