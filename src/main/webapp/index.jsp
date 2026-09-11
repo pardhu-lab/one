@@ -820,7 +820,7 @@ footer li {
 
         <div class="hero-main">
 
-            <span class="hero-tag">NEW SEASON · 2026 COLLECTION</span>
+            <span class="hero-tag">NEW SEASON · 2025 COLLECTION</span>
 
             <h1>
                 Everything you want.
